@@ -1,0 +1,35 @@
+ 
+3.; Respuesta a las actividades  
+
+Entregable: Escribe exacta y explícitamente qué archivos fueron creados y dónde. 1.2
+Se creo una coleccion de archivos .class, estos archivos corresponden a cada uno de los archivos .java que ya teniamos previamente en nuestra libreria 
+
+
+Entregable: Describe qué sucedió al intentar lo anterior. ¿Qué tiene el archivoUsoReloj.java que permite invocarl su .class con java? 1.4
+AL intentar invocar la maquina nos arroja linea de seudo codio , este codigo es una tranformacion del codio de alto nivle a un lenguaje intermedio con el que la computadora y el usuario pudemos trabajar, este archivo .class permite que el progama sea ejecutado apartir del compilador 
+
+Entregable: ¿Dónde quedaron ahora los archivos .class? 1.6
+Los archivos .class quedaron dentro del directorio Reloj/build. en esta carpeta fueron asignados los archivos .class
+
+Entregable: ¿A qué comando de los que usaste en la sección anterior, sin ant,correspondería? 1.8
+$java icc. practica1 . UsoReloj
+
+Entregable: ¿Qué mecanismo crees que utilice Ant para determinar qué compilar?1.10
+No estoy seguiro de que mecanismo es el que ocupa , sin embargo presiento que lo que hace ant es un tipo de consola en donde ejecuta el codigo y despues lo compila de modo que funciona como terminal y compilador a la ves.
+
+Entregable: ¿Qué obtienes cuando no pasas argumentos?¿Qué obtienes cuandoagregas las palabras arg1 arg2 arg3? 
+ntrada/build$ java icc.entrada.Entrada arg1 arg2 arg3
+Argumento 0: arg1
+Argumento 1: arg2
+Argumento 2: arg3
+
+Generamos argumentos 
+
+4. La respuesta, con su justificación, a la siguiente pregunta: Los errores que tuviste
+que corregir, ¿de qué tipo son, sintácticos o semánticos?
+
+sintacticos
+
+
+
+
